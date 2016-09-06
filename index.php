@@ -11,6 +11,6 @@ $twig = new Twig_Environment($loader, array(
 ));
 
 $template = $twig->loadTemplate('index.html');
-echo $template->render(array('name' => '', 'title' => 'Startpage dsd'));
+echo $template->render(array('name' => 'Max', 'title' => 'Startpage dsd'));
 
 ?>
