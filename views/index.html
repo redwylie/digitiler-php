@@ -22,6 +22,38 @@
                     {% endif %}
                     <h1> Welcome {{ name }}</h1>
 
+                    <div id="openseadragon" style="width: 100px; height:100px"></div>
+
+
+                   <script>
+
+                  
+
+                    var dziFilesUrl = 'imagezooms/2016/08-August/2016-08-28/Buddha180Nikkor/Buddha180Nikkor_dzi_files/';
+
+                    var dzi = {
+                      Image: {
+                        xmlns: 'http://schemas.microsoft.com/deepzoom/2008',
+                        Url: dziFilesUrl,
+                        Format: 'jpeg',
+                        Overlap: 1,
+                        TileSize: 254,
+                        Size: {
+                          Height: 14515,
+                          Width: 24649
+                        }
+                      }
+                    };  
+
+                    // This creates the actual viewer. 
+                    var viewer = OpenSeadragon({
+                      id: 'openseadragon',
+                      prefixUrl: '//maxotics.com/wp-content/plugins/zoom-openseadragon/images/',
+                      tileSources: dzi
+                    });
+                    </script>
+
+
                 </div><!-- .col -->
         </div><!-- .row -->
     </div><!-- .container -->
