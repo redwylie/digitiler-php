@@ -1,33 +1,59 @@
 <!doctype html>
 
 <head>
-   
-   {% include 'common/meta.html' %}
-   {% include 'common/styles.html' %}
-   
 
-  
+{% include 'common/meta.html' %}
+{% include 'common/styles.html' %}
+
+
+
 </head>
 <body>
 
-   {% include 'common/nav.html' with {'foo': 'bar'} %}
+	{% include 'common/nav.html' with {'foo': 'bar'} %}
 
-    <div class="container-fluid">
-        <div class="row">
-                <div class="col-sm-9">
-                    {% if name is empty %}
-                        {% set name = "test" %}
-                    {% endif %}
+	<div class="container-fluid">
 
-                    <div id="openseadragon"></div>
-                </div><!-- .col -->
-        </div><!-- .row -->
-    </div><!-- .container -->
+		<div class="container">
+			<div class="row-fluid">
+
+				{% if name is empty %}
+				{% set name = "test" %}
+				{% endif %}
+
+				<div class="col-sm-4">
+					<a href="photo.php?photo=flower">
+						<div class="card" style="background-image: url('zooms/2016/09-September/09-05-2016/flower/flower_thumb.png')">
+							<h1>Flower</h1>
+						</div><!-- .col -->
+					</a>
+				</div><!-- .col -->
+
+				<div class="col-sm-4">
+					<a href="photo.php?photo=sunflower">
+						<div class="card" style="background-image: url('zooms/2016/09-September/09-03-2016/sunflower/sunflower_thumb.jpg')">
+							<h1>SunFlower</h1>
+						</div><!-- .col -->
+					</a>
+				</div><!-- .col -->
+
+				<div class="col-sm-4">
+					<a href="photo.php?photo=owl">
+						<div class="card" style="background-image: url('zooms/2016/09-September/09-07-2016/owl/owl_thumb.png')">
+							<h1>Owl</h1>
+						</div><!-- .col -->
+					</a>
+				</div><!-- .col -->
 
 
-    {% include 'common/scripts.html' %}
+			</div><!-- .row -->
+		</div><!-- .container -->
 
-    {% include 'common/zoom.html' with {'year': '2016', 'month': '09-September', 'date':'09-05-2016', 'name': 'flower'} %}
+	</div><!-- .container -->
+
+	{% include 'common/scripts.html' %}
+
+
 
 </body>
 </html>

@@ -1,0 +1,46 @@
+<!doctype html>
+
+<head>
+   
+   {% include 'common/meta.html' %}
+   {% include 'common/styles.html' %}
+   
+
+  
+</head>
+<body>
+
+   {% include 'common/nav.html'%}
+
+	<div class="container-fluid">
+		<div class="row">
+		  <div class="col-sm-9">
+			{% if name is empty %}
+			  {% set name = "test" %}
+			{% endif %}
+
+			{% if id == 1 %}
+				<div class="page-header">
+					<h1></h1>
+				</div>Flower
+			{% endif %}
+
+		  </div><!-- .col -->
+	   
+		</div><!-- .row -->
+
+		<div class="row">
+				<div class="col-sm-12">
+					<div id="openseadragon"></div>
+				</div><!-- .col -->
+		</div><!-- .row -->
+	</div><!-- .container -->
+
+
+	{% include 'common/scripts.html' %}
+
+	{% include 'common/zoom.html' with {'name': photo} %}
+
+</body>
+</html>
+
