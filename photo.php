@@ -14,7 +14,7 @@ $photo = $_GET['photo'];
 
 switch ($photo) {
 	case "flower" :
-		$photo = 'zooms/2016/09-September/09-05-2016/flower/flower';
+		$photo = 'zooms/2016/09-03-2016/robot/robot';
 		break;
 	case "sunflower" :
 		$photo = 'zooms/2016/09-September/09-03-2016/sunflower/sunflower';
