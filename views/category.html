@@ -12,6 +12,8 @@
 
 	{% include 'common/nav.html' with {'foo': 'bar'} %}
 
+	<h1>{{categoryTitle}}</h1>
+
 	<div class="container-fluid">
 
 		<div class="container">
@@ -19,18 +21,16 @@
 
 
 				{% for image in images %}
-					{% if image.viewOnHome %}
-					<div class="col-sm-4">
-						<a href="photo.php?photo={{image._id}}">
-							<div class="card" style="background-image: url('zooms/2016/09-September/09-05-2016/flower/flower_thumb.png')">
-								<div class="inner">
-									<h1>{{ image.title }}</h1>
-								</div>
+				<div class="col-sm-4">
+					<a href="photo.php?photo={{image._id}}">
+						<div class="card" style="background-image: url('zooms/2016/09-September/09-05-2016/flower/flower_thumb.png')">
+							<div class="inner">
+								<h1>{{ image.title }}</h1>
+							</div>
 
-							</div><!-- .col -->
-						</a>
-					</div><!-- .col -->
-					{% endif %}
+						</div><!-- .col -->
+					</a>
+				</div><!-- .col -->
 				{% endfor %}
 
 				<!--{{cards}}-->

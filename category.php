@@ -10,8 +10,8 @@ $twig = new Twig_Environment($loader, array(
   'auto_reload' => true,
 ));
 
-$photo = null;
-$photoId = $_GET['photo'];
+$category = null;
+$category = $_GET['category'];
 
 $file = file_get_contents('./images.json', true);
 
@@ -24,19 +24,21 @@ $obj = json_decode($json);
 
 //print $obj->{'images'};
 
+$categoryImages = array();
+
 foreach ($obj->{'images'} as &$image) {
-    if ($image->_id == $photoId) {
-        $photo = $image;
-        break;
+    if ($image->category == $category) {
+        array_push($categoryImages, $image);
     };
 }
 
 //var_dump($photo);
 
-$template = $twig->loadTemplate('photo.html');
+$template = $twig->loadTemplate('category.html');
 echo $template->render(array(
 		'title' => 'Digitiler - High Resolution Digital Photography',
-		'photo' => $photo,
+		'categoryTitle' => $category,
+		'images' => $categoryImages,
 		'id' => $id,
 		'view' => 'Full'
 	));

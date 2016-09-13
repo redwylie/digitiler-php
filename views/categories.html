@@ -18,19 +18,17 @@
 			<div class="row-fluid">
 
 
-				{% for image in images %}
-					{% if image.viewOnHome %}
+				{% for category in categories %}
 					<div class="col-sm-4">
-						<a href="photo.php?photo={{image._id}}">
+						<a href="category.php?category={{category.category}}">
 							<div class="card" style="background-image: url('zooms/2016/09-September/09-05-2016/flower/flower_thumb.png')">
 								<div class="inner">
-									<h1>{{ image.title }}</h1>
+									<h1>{{ category.category }}</h1>
 								</div>
 
 							</div><!-- .col -->
 						</a>
 					</div><!-- .col -->
-					{% endif %}
 				{% endfor %}
 
 				<!--{{cards}}-->

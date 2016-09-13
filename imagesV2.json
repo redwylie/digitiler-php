@@ -1,0 +1,31 @@
+{"image1":
+  { "_id": 1
+    , "d2i": "zoom/2016/09-Sept/flower/flower_dzi"
+    , "thumb": ""
+    , "full": ""
+    , "title": "Flower"
+    , "photographer": "Mark"
+    , "lens": "12313"
+    , "camera_1": "abc"
+    , "camera_2": "def"
+    , "aperture": "ghi"
+    , "year": "2016"
+    , "category": "flowers"
+    , "viewOnHome": true
+  },
+  "image2":
+  {"_id": 2
+    , "d2i": "zoom/2016/09-Sept/flower/flower_dzi"
+    , "thumb": ""
+    , "full": ""
+    , "title": "Cow"
+    , "photographer": "Mark"
+    , "lens": "12313"
+    , "camera_1": "abc"
+    , "camera_2": "def"
+    , "aperture": "ghi"
+    , "year": "2016"
+    , "category": "flowers"
+    , "viewOnHome": true
+  }
+}

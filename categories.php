@@ -19,12 +19,21 @@ $json = $file;
 
 $images = json_decode($json);
 
+$categories = array();
 
-$template = $twig->loadTemplate('index.html');
+foreach ($images->{'images'} as &$image) {
+    if ($image->viewOnCategories) {
+        array_push($categories, $image);
+    };
+}
+
+//var_dump($categories);
+
+$template = $twig->loadTemplate('categories.html');
 echo $template->render(array(
 		'name' => 'Max',
 		'title' => 'Digitiler - High Resolution Digital Photography',
-     'images' => $images->{'images'}
+     'categories' => $categories
 	));
 
 
