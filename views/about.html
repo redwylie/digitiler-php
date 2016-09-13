@@ -12,17 +12,47 @@
 
     <div class="container">
         <div class="row">
-                <div class="col-sm-9">
+                <div class="col-sm-12">
                     
                     <div class="page-header">
-                        <h1>The Digitiler is the invention of Max 'Mad Max' Rottersman</h1>
+                        <h1>About Digitiler</h1>
                     </div>
+
+                    <p>The Digitiler is a large-format camera-mechanism+software (in on-going development at <a href="http://maxotics.com" target="_blank">Maxotics</a>) that allows a photographer to efficiently “tile” an image projection, say 4×5 inches, onto 42 overlapping 1 by 1.5-inch full frame sensor captures (or 99 APS-C).  The end-result are images in excess of 300 megapixels.  View the latest developments on the blog Maxotics. Viewers can zoom into the images here through Openseadragon.</p>
+
+                    <p>Benefits? Immersive deep-zoom user experience on the web.  High resolution prints/displays.  Technical study of material structure, say, cooking techniques on food.</p>
+
+                    <p>What problem is solved? Bayer sensors produce color noise at the pixel level when missing color (each pixel only captures red, green or blue) is extrapolated from neighboring pixels.  Therefore, one needs four pixels to create a true color point.  A 24 megapixel camera ends up as six megapixels to the purist.  When shooting with the Digitiler one ends up with around 300+ (stitched) megapixels.  That results in a 75+ megapixal true color digital negative.  That can be compared to the 12.5mp true-color of the latest 50mp Canon 5DSR.</p>
+
+                    <hr/>
+
+                    <h2>Test scene</h2>
+
+                    <div class="row">
+                        <div class="col-sm-9">
+                            <img src="assets/images/tests/scene.jpg" class="img-responsive">
+                        </div><!-- .col --> 
+                    </div><!-- .row -->
+
+                    <br/>
+
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <img src="assets/images/tests/sonyA7.jpg" class="img-responsive">
+                            <h5>Zoom in of typical digital camera (Sony A7)</h5>
+                        </div><!-- .col -->
+                        <div class="col-sm-6">
+                            <img src="assets/images/tests/digitiler.jpg" class="img-responsive">
+                            <h5>Zoom in of DigiTiler image</h5>
+                        </div><!-- .col -->
+                    </div><!-- .row -->
+                    
 
                 </div><!-- .col -->
         </div><!-- .row -->
     </div><!-- .container -->
 
-
+    {% include 'common/footer.html' %}
     {% include 'common/scripts.html' %}
 
 </body>

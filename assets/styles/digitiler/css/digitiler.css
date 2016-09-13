@@ -5812,29 +5812,18 @@ html {
 
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 315px; }
+  margin-bottom: 60px; }
 
-body > .container,
-.first-section {
-  padding-top: 117px; }
-
-.footer {
+footer {
   position: absolute;
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 315px; }
-  .footer .row {
+  height: 60px;
+  background-color: #f5f5f5; }
+  footer .row {
     padding-top: 20px; }
 
-@media (max-width: 767px) {
-  body {
-    /* Margin bottom by footer height */
-    margin-bottom: 0px; }
-
-  .footer {
-    position: relative;
-    height: 800px; } }
 .required-field-indicator {
   color: #ca424e; }
 
