@@ -5,8 +5,6 @@
 {% include 'common/meta.html' %}
 {% include 'common/styles.html' %}
 
-
-
 </head>
 <body>
 
@@ -22,7 +20,7 @@
 					{% if image.viewOnHome %}
 					<div class="col-sm-4">
 						<a href="photo.php?photo={{image._id}}">
-							<div class="card" style="background-image: url('zooms/2016/09-September/09-05-2016/flower/flower_thumb.png')">
+							<div class="card" style="background-image: url('{{image.folder}}/thumbnail.jpg')">
 								<div class="inner">
 									<h1>{{ image.title }}</h1>
 								</div>

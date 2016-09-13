@@ -12,18 +12,23 @@
 
 	{% include 'common/nav.html' with {'foo': 'bar'} %}
 
-	<h1>{{categoryTitle}}</h1>
-
 	<div class="container-fluid">
 
 		<div class="container">
+
+			<div class="row">
+				<div class="page-header">
+						<h1>{{categoryTitle}}</h1>
+				</div>
+			</div><!-- .row -->
+
 			<div class="row-fluid">
 
 
 				{% for image in images %}
 				<div class="col-sm-4">
 					<a href="photo.php?photo={{image._id}}">
-						<div class="card" style="background-image: url('zooms/2016/09-September/09-05-2016/flower/flower_thumb.png')">
+						<div class="card" style="background-image: url('{{image.folder}}/thumbnail.jpg')">
 							<div class="inner">
 								<h1>{{ image.title }}</h1>
 							</div>

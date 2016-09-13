@@ -12,10 +12,11 @@
 
    {% include 'common/nav.html'%}
 
-   <h1>{{photo.title}}</h1>
-
 	<div class="container-fluid">
 		<div class="row">
+
+			
+
 		  <div class="col-sm-9">
 			{% if name is empty %}
 			  {% set name = "test" %}
@@ -41,7 +42,7 @@
 
 	{% include 'common/scripts.html' %}
 
-	{% include 'common/zoom.html' with {'name': photo.dzi} %}
+	{% include 'common/zoom.html' with {'folder': photo.folder} %}
 
 </body>
 </html>

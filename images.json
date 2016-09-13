@@ -1,47 +1,82 @@
 {"images": [
   { "_id": 1
-    , "d2i": "zoom/2016/09-Sept/flower/flower_dzi"
-    , "thumb": ""
-    , "full": ""
-    , "title": "Lily"
-    , "photographer": "Mark"
-    , "lens": "12313"
-    , "camera_1": "abc"
-    , "camera_2": "def"
-    , "aperture": "ghi"
+    , "folder": "zooms/2016/09-September/2016-09-11/seashell_1"
+    , "dzi": ""
+    , "thumbnail": ""
+    , "flickr": ""
+    , "title": "Seashell"
+    , "photographer": "Mark Wylie"
+    , "lens": "Cambo 210mm"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a6000"
+    , "aperture": "16"
     , "year": "2016"
-    , "category": "flowers"
-    , "viewOnHome": true
-  , "viewOnCategories": false
-  },
-  {"_id": 2
-    , "d2i": "zoom/2016/09-Sept/flower/flower_dzi"
-    , "thumb": ""
-    , "full": ""
-    , "title": "Cow"
-    , "photographer": "Mark"
-    , "lens": "12313"
-    , "camera_1": "abc"
-    , "camera_2": "def"
-    , "aperture": "ghi"
-    , "year": "2016"
-    , "category": "livestock"
-    , "viewOnHome": true
-  , "viewOnCategories": true
-  },
-  {"_id": 3
-    , "d2i": "zoom/2016/09-Sept/flower/flower_dzi"
-    , "thumb": ""
-    , "full": ""
-    , "title": "Rose"
-    , "photographer": "Mark"
-    , "lens": "12313"
-    , "camera_1": "abc"
-    , "camera_2": "def"
-    , "aperture": "ghi"
-    , "year": "2016"
-    , "category": "flowers"
+    , "category": "Misc"
     , "viewOnHome": true
     , "viewOnCategories": true
+  },
+  {"_id": 2
+    , "folder": "zooms/2016/09-September/2016-09-11/sunflower_1"
+    , "dzi": ""
+    , "thumbnail": "t"
+    , "flickr": ""
+    , "title": "Sunflowers"
+    , "photographer": "Mark"
+    , "lens": "12313"
+    , "camera_1": "abc"
+    , "camera_2": "def"
+    , "aperture": "ghi"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnHome": true
+    , "viewOnCategories": true
+  },
+  {"_id": 3
+    , "folder": "zooms/2016/09-September/2016-09-11/sunflower_2"
+    , "dzi": ""
+    , "thumbnail": ""
+    , "flickr": ""
+    , "title": "Sunflower"
+    , "photographer": "Mark"
+    , "lens": "12313"
+    , "camera_1": "abc"
+    , "camera_2": "def"
+    , "aperture": "ghi"
+    , "year": "2016"
+    , "category": "flowers"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+  },
+  {"_id": 4
+    , "folder": "zooms/2016/09-September/2016-09-11/sunflower_3"
+    , "dzi": ""
+    , "thumbnail": ""
+    , "flickr": ""
+    , "title": "Sunflower"
+    , "photographer": "Mark"
+    , "lens": "12313"
+    , "camera_1": "abc"
+    , "camera_2": "def"
+    , "aperture": "ghi"
+    , "year": "2016"
+    , "category": "flowers"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+  },
+  {"_id": 5
+    , "folder": "zooms/2016/09-September/2016-09-11/sunflower_4"
+    , "dzi": ""
+    , "thumbnail": ""
+    , "flickr": ""
+    , "title": "Sunflower"
+    , "photographer": "Mark"
+    , "lens": "12313"
+    , "camera_1": "abc"
+    , "camera_2": "def"
+    , "aperture": "ghi"
+    , "year": "2016"
+    , "category": "flowers"
+    , "viewOnHome": true
+    , "viewOnCategories": false
   }
 ]}
