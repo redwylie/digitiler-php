@@ -5830,6 +5830,9 @@ footer {
 .pointer {
   cursor: pointer; }
 
+.page-photo {
+  background-color: black; }
+
 .card {
   height: 300px;
   background-size: cover;
