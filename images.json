@@ -1,6 +1,61 @@
 {"images": [
+  {"_id": 10
+    , "folder": "zooms/2016/09-September/2016-09-03/bouquet"
+    , "flickr": ""
+    , "title": "Farm Bouquet"
+    , "photographer": "Mark Wylie"
+    , "lens": "180mm Nikkor"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a6000"
+    , "aperture": ""
+    , "year": "2016"
+    , "category": "Flowers"
+    , "width": ""
+    , "height": ""
+    , "megapixels": ""
+    , "images": ""
+    , "viewOnHome": true
+    , "viewOnCategories": false
+  },
+  {"_id": 13
+    , "folder": "zooms/2016/09-September/2016-09-07/three_flowers"
+    , "flickr": ""
+    , "title": "Flowers"
+    , "photographer": "Mark Wylie"
+    , "lens": "210mm Cambo"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a6000"
+    , "aperture": ""
+    , "year": "2016"
+    , "category": "Flowers"
+    , "width": ""
+    , "height": ""
+    , "megapixels": ""
+    , "images": ""
+    , "viewOnHome": true
+    , "viewOnCategories": false
+  },
+  {"_id": 7
+    , "folder": "zooms/2016/08-August/2016-08-26/peppercorns_1"
+    , "flickr": ""
+    , "title": "Peppercorns Macro"
+    , "photographer": "Mark Wylie"
+    , "lens": "56mm"
+    , "camera_1": "Graflex Supergraphic"
+    , "camera_2": "Sony a6000"
+    , "aperture": ""
+    , "year": "2016"
+    , "category": "Macro"
+    , "width": ""
+    , "height": ""
+    , "megapixels": ""
+    , "images": ""
+    , "viewOnHome": true
+    , "viewOnCategories": true
+  },
+  
   { "_id": 0
-    , "folder": "zooms/2016/09-September/2016-09-03/sunflower"
+    , "folder": "zooms/2016/08-August/2016-08-24/sunflower_1"
     , "flickr": ""
     , "title": "Sunflower Macro"
     , "photographer": "Mark Wylie Wylie"
@@ -9,7 +64,7 @@
     , "camera_2": "Sony a6000"
     , "aperture": "16"
     , "year": "2016"
-    , "category": "flowers"
+    , "category": "Flowers"
     , "width": ""
     , "height": ""
     , "megapixels": ""
@@ -35,6 +90,7 @@
     , "viewOnHome": true
     , "viewOnCategories": true
   },
+
   {"_id": 2
     , "folder": "zooms/2016/09-September/2016-09-10/sunflower_1"
     , "flickr": ""
@@ -45,31 +101,13 @@
     , "camera_2": "Sony a6000"
     , "aperture": ""
     , "year": "2016"
-    , "category": "flowers"
+    , "category": "Flowers"
     , "width": ""
     , "height": ""
     , "megapixels": ""
     , "images": ""
     , "viewOnHome": true
     , "viewOnCategories": true
-  },
-  {"_id": 3
-    , "folder": "zooms/2016/09-September/2016-09-10/sunflower_2"
-    , "flickr": ""
-    , "title": "Sunflower"
-    , "photographer": "Mark Wylie"
-    , "lens": "12313"
-    , "camera_1": "Cambo Legend"
-    , "camera_2": "Sony a6000"
-    , "aperture": ""
-    , "year": "2016"
-    , "category": "flowers"
-    , "width": ""
-    , "height": ""
-    , "megapixels": ""
-    , "images": ""
-    , "viewOnHome": true
-    , "viewOnCategories": false
   },
   {"_id": 4
     , "folder": "zooms/2016/09-September/2016-09-10/sunflower_3"
@@ -81,7 +119,7 @@
     , "camera_2": "Sony a6000"
     , "aperture": ""
     , "year": "2016"
-    , "category": "flowers"
+    , "category": "Flowers"
     , "width": ""
     , "height": ""
     , "megapixels": ""
@@ -99,7 +137,134 @@
     , "camera_2": "Sony a6000"
     , "aperture": ""
     , "year": "2016"
-    , "category": "flowers"
+    , "category": "Flowers"
+    , "width": ""
+    , "height": ""
+    , "megapixels": ""
+    , "images": ""
+    , "viewOnHome": true
+    , "viewOnCategories": false
+  },
+  {"_id": 6
+    , "folder": "zooms/2016/08-August/2016-08-24/milky_top_oats"
+    , "flickr": ""
+    , "title": "Milky Top Oats"
+    , "photographer": "Mark Wylie"
+    , "lens": "56mm"
+    , "camera_1": "Graflex Supergraphic"
+    , "camera_2": "Sony a6000"
+    , "aperture": ""
+    , "year": "2016"
+    , "category": "Macro"
+    , "width": ""
+    , "height": ""
+    , "megapixels": ""
+    , "images": ""
+    , "viewOnHome": true
+    , "viewOnCategories": false
+  },
+  
+  {"_id": 8
+    , "folder": "zooms/2016/08-August/2016-08-26/peppercorns_2"
+    , "flickr": ""
+    , "title": "Peppercorns"
+    , "photographer": "Mark Wylie"
+    , "lens": "56mm"
+    , "camera_1": "Graflex Supergraphic"
+    , "camera_2": "Sony a6000"
+    , "aperture": ""
+    , "year": "2016"
+    , "category": "Misc"
+    , "width": ""
+    , "height": ""
+    , "megapixels": ""
+    , "images": ""
+    , "viewOnHome": true
+    , "viewOnCategories": false
+  },
+  {"_id": 14
+    , "folder": "zooms/2016/09-September/2016-09-07/two_flowers"
+    , "flickr": ""
+    , "title": "Flowers"
+    , "photographer": "Mark Wylie"
+    , "lens": "210mm Cambo"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a6000"
+    , "aperture": ""
+    , "year": "2016"
+    , "category": "Flowers"
+    , "width": ""
+    , "height": ""
+    , "megapixels": ""
+    , "images": ""
+    , "viewOnHome": true
+    , "viewOnCategories": false
+  },
+  {"_id": 3
+    , "folder": "zooms/2016/09-September/2016-09-10/sunflower_2"
+    , "flickr": ""
+    , "title": "Sunflower"
+    , "photographer": "Mark Wylie"
+    , "lens": "12313"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a6000"
+    , "aperture": ""
+    , "year": "2016"
+    , "category": "Flowers"
+    , "width": ""
+    , "height": ""
+    , "megapixels": ""
+    , "images": ""
+    , "viewOnHome": true
+    , "viewOnCategories": false
+  },
+    {"_id": 12
+    , "folder": "zooms/2016/09-September/2016-09-05/flower"
+    , "flickr": ""
+    , "title": "Flowers"
+    , "photographer": "Mark Wylie"
+    , "lens": "210mm Cambo"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a6000"
+    , "aperture": ""
+    , "year": "2016"
+    , "category": "Flowers"
+    , "width": ""
+    , "height": ""
+    , "megapixels": ""
+    , "images": ""
+    , "viewOnHome": true
+    , "viewOnCategories": false
+  },
+  {"_id": 9
+    , "folder": "zooms/2016/08-August/2016-08-28/buddha"
+    , "flickr": ""
+    , "title": "Buddha Statue"
+    , "photographer": "Mark Wylie"
+    , "lens": "56mm"
+    , "camera_1": "Graflex Supergraphic"
+    , "camera_2": "Sony a6000"
+    , "aperture": ""
+    , "year": "2016"
+    , "category": "Misc"
+    , "width": ""
+    , "height": ""
+    , "megapixels": ""
+    , "images": ""
+    , "viewOnHome": true
+    , "viewOnCategories": false
+  },
+  {"_id": 11
+    , "folder": "zooms/2016/09-September/2016-09-01/tomatoes"
+    , "flickr": ""
+    , "title": "Tomatoes"
+    , "photographer": "Mark Wylie"
+    , "lens": "56mm"
+    , "camera_1": "Graflex Supergraphic"
+    , "camera_2": "Sony a6000"
+    , "aperture": ""
+    , "year": "2016"
+    , "category": "Misc"
     , "width": ""
     , "height": ""
     , "megapixels": ""
