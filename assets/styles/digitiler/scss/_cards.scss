@@ -3,11 +3,12 @@
 	background-size: cover;
 	cursor: pointer;
 	background-position: center;
-	background-color: #222;
+	background-color: $gray-one-shadow;
 	display: flex;
 	align-items: center; 
 	justify-content: center;
 	margin-bottom: 25px;
+	border: 2px solid $white;
 
 	h1 {
 		text-align: center;
@@ -15,4 +16,8 @@
 		color: $white;
 	}
 
+}
+
+.card:hover {
+	border: 2px solid $blue-one-highlight;
 }
