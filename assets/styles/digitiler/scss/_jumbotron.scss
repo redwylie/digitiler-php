@@ -1,0 +1,50 @@
+.jumbotron {
+    height: 500px;
+    background-image: url('../../../../assets/images/jumbotron/sunflower.jpg');
+    background-size: cover;
+    background-position: right;
+    background-color: #222;
+    margin-bottom: 25px;
+  
+    h1 {
+        color: $white;
+        font-size: 107px;
+    }
+
+  
+}
+
+
+
+@media (max-width: $screen-xs-max) {
+   .jumbotron {
+        height: 300px;
+
+        h1 {
+            font-size: 40px;
+        }
+    }
+}
+
+@media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+    .jumbotron {
+        height: 450px;
+
+        h1 {
+            font-size: 75px;
+        }
+    }
+}
+
+@media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
+    .jumbotron {
+
+        h1 {
+            font-size: 90px;
+        }
+    }
+}
+
+@media (min-width: $screen-lg-min) {
+    
+}

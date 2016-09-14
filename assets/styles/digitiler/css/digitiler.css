@@ -3677,7 +3677,7 @@ tbody.collapse.in {
 .navbar {
   position: relative;
   min-height: 50px;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
   border: 1px solid transparent; }
   .navbar:before, .navbar:after {
     content: " ";
@@ -5844,3 +5844,28 @@ footer {
     text-align: center;
     font-size: 20px;
     color: #ffffff; }
+
+.jumbotron {
+  height: 500px;
+  background-image: url("../../../../assets/images/jumbotron/sunflower.jpg");
+  background-size: cover;
+  background-position: right;
+  background-color: #222;
+  margin-bottom: 25px; }
+  .jumbotron h1 {
+    color: #ffffff;
+    font-size: 107px; }
+
+@media (max-width: 767px) {
+  .jumbotron {
+    height: 300px; }
+    .jumbotron h1 {
+      font-size: 40px; } }
+@media (min-width: 768px) and (max-width: 991px) {
+  .jumbotron {
+    height: 450px; }
+    .jumbotron h1 {
+      font-size: 75px; } }
+@media (min-width: 992px) and (max-width: 1199px) {
+  .jumbotron h1 {
+    font-size: 90px; } }
