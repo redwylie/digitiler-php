@@ -10,9 +10,6 @@
     , "aperture": ""
     , "year": "2016"
     , "category": "Flowers"
-    , "width": ""
-    , "height": ""
-    , "megapixels": ""
     , "images": ""
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -28,9 +25,6 @@
     , "aperture": ""
     , "year": "2016"
     , "category": "Flowers"
-    , "width": ""
-    , "height": ""
-    , "megapixels": ""
     , "images": ""
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -46,9 +40,6 @@
     , "aperture": ""
     , "year": "2016"
     , "category": "Macro"
-    , "width": ""
-    , "height": ""
-    , "megapixels": ""
     , "images": ""
     , "viewOnHome": true
     , "viewOnCategories": true
@@ -58,16 +49,13 @@
     , "folder": "zooms/2016/08-August/2016-08-24/sunflower_1"
     , "flickr": ""
     , "title": "Sunflower Macro"
-    , "photographer": "Mark Wylie Wylie"
+    , "photographer": "Mark Wylie"
     , "lens": "56mm"
     , "camera_1": "Graflex Supergraphic"
     , "camera_2": "Sony a6000"
     , "aperture": "16"
     , "year": "2016"
     , "category": "Flowers"
-    , "width": ""
-    , "height": ""
-    , "megapixels": ""
     , "images": ""
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -76,16 +64,13 @@
     , "folder": "zooms/2016/09-September/2016-09-10/seashell_1"
     , "flickr": ""
     , "title": "Seashell"
-    , "photographer": "Mark Wylie Wylie"
+    , "photographer": "Mark Wylie"
     , "lens": "Cambo 210mm"
     , "camera_1": "Cambo Legend"
     , "camera_2": "Sony a6000"
     , "aperture": "16"
     , "year": "2016"
     , "category": "Misc"
-    , "width": ""
-    , "height": ""
-    , "megapixels": ""
     , "images": ""
     , "viewOnHome": true
     , "viewOnCategories": true
@@ -96,15 +81,12 @@
     , "flickr": ""
     , "title": "Sunflowers"
     , "photographer": "Mark Wylie"
-    , "lens": "12313"
+    , "lens": "Cambo 210mm"
     , "camera_1": "Cambo Legend"
     , "camera_2": "Sony a6000"
     , "aperture": ""
     , "year": "2016"
     , "category": "Flowers"
-    , "width": ""
-    , "height": ""
-    , "megapixels": ""
     , "images": ""
     , "viewOnHome": true
     , "viewOnCategories": true
@@ -114,15 +96,12 @@
     , "flickr": ""
     , "title": "Sunflower"
     , "photographer": "Mark Wylie"
-    , "lens": "12313"
+    , "lens": "Cambo 210mm"
     , "camera_1": "Cambo Legend"
     , "camera_2": "Sony a6000"
     , "aperture": ""
     , "year": "2016"
     , "category": "Flowers"
-    , "width": ""
-    , "height": ""
-    , "megapixels": ""
     , "images": ""
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -132,15 +111,12 @@
     , "flickr": ""
     , "title": "Sunflower"
     , "photographer": "Mark Wylie"
-    , "lens": "12313"
+    , "lens": "Cambo 210mm"
     , "camera_1": "Cambo Legend"
     , "camera_2": "Sony a6000"
     , "aperture": ""
     , "year": "2016"
     , "category": "Flowers"
-    , "width": ""
-    , "height": ""
-    , "megapixels": ""
     , "images": ""
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -156,9 +132,6 @@
     , "aperture": ""
     , "year": "2016"
     , "category": "Macro"
-    , "width": ""
-    , "height": ""
-    , "megapixels": ""
     , "images": ""
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -175,9 +148,6 @@
     , "aperture": ""
     , "year": "2016"
     , "category": "Misc"
-    , "width": ""
-    , "height": ""
-    , "megapixels": ""
     , "images": ""
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -193,9 +163,6 @@
     , "aperture": ""
     , "year": "2016"
     , "category": "Flowers"
-    , "width": ""
-    , "height": ""
-    , "megapixels": ""
     , "images": ""
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -205,15 +172,12 @@
     , "flickr": ""
     , "title": "Sunflower"
     , "photographer": "Mark Wylie"
-    , "lens": "12313"
+    , "lens": "Cambo 210mm"
     , "camera_1": "Cambo Legend"
     , "camera_2": "Sony a6000"
     , "aperture": ""
     , "year": "2016"
     , "category": "Flowers"
-    , "width": ""
-    , "height": ""
-    , "megapixels": ""
     , "images": ""
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -223,15 +187,12 @@
     , "flickr": ""
     , "title": "Flowers"
     , "photographer": "Mark Wylie"
-    , "lens": "210mm Cambo"
+    , "lens": "Cambo 210mm"
     , "camera_1": "Cambo Legend"
     , "camera_2": "Sony a6000"
     , "aperture": ""
     , "year": "2016"
     , "category": "Flowers"
-    , "width": ""
-    , "height": ""
-    , "megapixels": ""
     , "images": ""
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -247,9 +208,6 @@
     , "aperture": ""
     , "year": "2016"
     , "category": "Misc"
-    , "width": ""
-    , "height": ""
-    , "megapixels": ""
     , "images": ""
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -265,9 +223,6 @@
     , "aperture": ""
     , "year": "2016"
     , "category": "Misc"
-    , "width": ""
-    , "height": ""
-    , "megapixels": ""
     , "images": ""
     , "viewOnHome": true
     , "viewOnCategories": false

@@ -11624,6 +11624,14 @@ $.DziTileSource = function( width, height, tileSize, tileOverlap, tilesUrl, file
         };
     }
 
+    var totalWidth = (options.width);
+    jQuery('#photoWidth').text(totalWidth + "px");
+    var totalHeight = (options.height);
+    jQuery('#photoHeight').text(totalHeight+ "px");
+    var totalMegapixels = ((options.width * options.height) / 1000000).toFixed();
+    jQuery('#photoMegapixels').text(totalMegapixels + " megapixels");
+
+
     this._levelRects  = {};
     this.tilesUrl     = options.tilesUrl;
     this.fileFormat   = options.fileFormat;

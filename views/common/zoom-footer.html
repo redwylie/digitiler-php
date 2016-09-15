@@ -1,0 +1,42 @@
+<footer class="footer zoom-footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-9">
+			<p class="text-muted">
+				{{photo.title}} 
+				&bull; 
+				<span id="photoMegapixels"></span>
+				</p>
+
+				{% if photo.photographer %}
+					{{photo.photographer}}
+				{% endif %}
+
+				{% if photo.lens %}
+					&bull; {{photo.lens}}
+				{% endif %}
+
+				{% if photo.camera_1 %}
+					&bull; {{photo.camera_1}}
+				{% endif %}
+
+				{% if photo.camera_2 %}
+					+ {{photo.camera_2}}
+				{% endif %}
+
+				<span class="image-size">
+					&bull; 
+					<span id="photoWidth"></span>
+					<span id="photoHeight"></span>
+				</span>
+
+				
+			</div><!-- .col -->
+			<div class="col-sm-3 text-right">
+				<p class="text-muted">&copy; <span id="year">2017</span> Digitiler</p>
+			</div><!-- .col -->
+		</div><!-- .row -->
+		
+	</div><!-- .container -->
+
+</footer>

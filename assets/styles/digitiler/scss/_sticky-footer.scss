@@ -9,6 +9,10 @@ body {
   margin-bottom: 60px;
 }
 
+body.page-photo {
+  margin-bottom: 60px;
+}
+
 body > .container,
 .first-section {
   
@@ -21,9 +25,18 @@ footer {
   /* Set the fixed height of the footer here */
   height: 60px;
   background-color: #f5f5f5;
-  
   .row {
-    padding-top: 20px;
+    margin-top: 20px;
+  }
+}
+
+.zoom-footer {
+  height: 60px;
+  background-color: #000;
+  line-height: .5em;
+
+  .row {
+    margin-top: 10px;
   }
 
 }

@@ -19,28 +19,20 @@
 
 	<div class="container-fluid">
 
-		<div class="container">
+		<div class="container-fluid">
 			<div class="row-fluid">
 
 				{% for image in images %}
 					{% if image.viewOnHome %}
 					<div class="col-sm-6 col-md-4">
 						<a href="photo.php?photo={{image._id}}">
-							<div class="card" style="background-image: url('{{image.folder}}/thumbnail.jpg')">
-								<div class="inner">
-									<h1></h1>
-								</div>
-
-							</div><!-- .col -->
+							<div class="card" data-content="{{image.title}}" style="background-image: url('{{image.folder}}/thumbnail.jpg')">
+							
+							</div><!-- .card -->
 						</a>
 					</div><!-- .col -->
 					{% endif %}
 				{% endfor %}
-
-				<!--{{cards}}-->
-				{% if name is empty %}
-				{% set name = "test" %}
-				{% endif %}
 
 			</div><!-- .row -->
 		</div><!-- .container -->
