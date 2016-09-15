@@ -5876,3 +5876,5 @@ footer {
 @media (min-width: 992px) and (max-width: 1199px) {
   .jumbotron h1 {
     font-size: 90px; } }
+.navbar-brand img {
+  max-height: 25px; }
