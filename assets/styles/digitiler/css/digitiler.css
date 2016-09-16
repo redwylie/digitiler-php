@@ -5833,6 +5833,10 @@ footer {
   line-height: .5em; }
   .zoom-footer .row {
     margin-top: 10px; }
+  .zoom-footer a.show-info {
+    color: #777777; }
+  .zoom-footer .hidden-info {
+    line-height: .9em; }
 
 .required-field-indicator {
   color: #ca424e; }

@@ -4,6 +4,12 @@ $("document").ready (function(){
 });
 
 function setProps(){
+
+	$('.hidden-info').hide();
+	$('.show-info').click(function() {
+		$('.hidden-info').toggle();
+	});
+
 	var currentYear = new Date().getFullYear();
 	$("#year").text(currentYear);
 

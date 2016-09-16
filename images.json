@@ -106,6 +106,21 @@
     , "viewOnHome": true
     , "viewOnCategories": false
   },
+  {"_id": 16
+    , "folder": "zooms/2016/09-September/2016-09-15/seashell_2"
+    , "flickr": ""
+    , "title": "Seashell"
+    , "photographer": "Mark Wylie"
+    , "lens": "Cambo 210mm"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a6000"
+    , "aperture": ""
+    , "year": "2016"
+    , "category": "Miscellaneous"
+    , "images": ""
+    , "viewOnHome": true
+    , "viewOnCategories": false
+  },
   {"_id": 5
     , "folder": "zooms/2016/09-September/2016-09-10/sunflower_4"
     , "flickr": ""
@@ -147,7 +162,7 @@
     , "camera_2": "Sony a6000"
     , "aperture": ""
     , "year": "2016"
-    , "category": "Misc"
+    , "category": "Miscellaneous"
     , "images": ""
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -207,7 +222,7 @@
     , "camera_2": "Sony a6000"
     , "aperture": ""
     , "year": "2016"
-    , "category": "Misc"
+    , "category": "Miscellaneous"
     , "images": ""
     , "viewOnHome": true
     , "viewOnCategories": false
@@ -222,7 +237,22 @@
     , "camera_2": "Sony a6000"
     , "aperture": ""
     , "year": "2016"
-    , "category": "Misc"
+    , "category": "Miscellaneous"
+    , "images": ""
+    , "viewOnHome": true
+    , "viewOnCategories": false
+  },
+  {"_id": 15
+    , "folder": "zooms/2016/09-September/2016-09-15/seashell_1"
+    , "flickr": ""
+    , "title": "Seashell"
+    , "photographer": "Mark Wylie"
+    , "lens": "Cambo 210mm"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a6000"
+    , "aperture": ""
+    , "year": "2016"
+    , "category": "Miscellaneous"
     , "images": ""
     , "viewOnHome": true
     , "viewOnCategories": false
