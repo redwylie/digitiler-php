@@ -60,6 +60,21 @@
     , "viewOnHome": true
     , "viewOnCategories": false
   },
+  { "_id": 17
+    , "folder": "zooms/2016/09-September/2016-09-18/leaf"
+    , "flickr": ""
+    , "title": "Leaf"
+    , "photographer": "Mark Wylie"
+    , "lens": "Cambo 210mm"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a6000"
+    , "aperture": "22"
+    , "year": "2016"
+    , "category": "Miscellaneous"
+    , "images": "48"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+  },
   { "_id": 1
     , "folder": "zooms/2016/09-September/2016-09-10/seashell_1"
     , "flickr": ""
@@ -70,7 +85,7 @@
     , "camera_2": "Sony a6000"
     , "aperture": "16"
     , "year": "2016"
-    , "category": "Misc"
+    , "category": "Miscellaneous"
     , "images": ""
     , "viewOnHome": true
     , "viewOnCategories": true
