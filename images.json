@@ -1,4 +1,19 @@
 {"images": [
+{ "_id": 18
+    , "folder": "zooms/2016/09-September/2016-09-19/WatchFrontBackQuarter"
+    , "flickr": ""
+    , "title": "Watch"
+    , "photographer": "Max Rottersman"
+    , "lens": "Polaroid 75mm"
+    , "camera_1": "Poloaroid Industrial View Camera"
+    , "camera_2": "Sony a7r"
+    , "aperture": "16"
+    , "year": "2016"
+    , "category": "Miscellaneous"
+    , "images": "49"
+    , "viewOnHome": true
+    , "viewOnCategories": true
+  },
   {"_id": 10
     , "folder": "zooms/2016/09-September/2016-09-03/bouquet"
     , "flickr": ""
