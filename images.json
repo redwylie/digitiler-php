@@ -1,5 +1,65 @@
 {"images": [
-{ "_id": 20
+{ "_id": "Receipts"
+    , "folder": "zooms/2016/09-September/2016-09-27/receipts"
+    , "flickr": ""
+    , "title": "Receipts"
+    , "photographer": "Max Rottersman"
+    , "lens": "75mm Macro"
+    , "camera_1": "Polaroid Industrial 4x5"
+    , "camera_2": "Sony a7"
+    , "aperture": "16"
+    , "year": "2016"
+    , "category": "Miscellaneous"
+    , "images": "49"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+  },
+{ "_id": "Raisin Bread"
+    , "folder": "zooms/2016/09-September/2016-09-26/raisinbread"
+    , "flickr": ""
+    , "title": "Raisin Bread"
+    , "photographer": "Max Rottersman"
+    , "lens": "75mm Macro"
+    , "camera_1": "Polaroid Industrial 4x5"
+    , "camera_2": "Sony a7"
+    , "aperture": "16"
+    , "year": "2016"
+    , "category": "Food"
+    , "images": "49"
+    , "viewOnHome": true
+    , "viewOnCategories": true
+  },
+{ "_id": "Blancpain_No_516_02"
+    , "folder": "zooms/2016/09-September/2016-09-25/watch"
+    , "flickr": ""
+    , "title": "Blancpain No 516"
+    , "photographer": "Mark Wylie"
+    , "lens": "56mm Macro"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a7r"
+    , "aperture": "48"
+    , "year": "2016"
+    , "category": "Product Shots"
+    , "images": "49"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+  },
+  { "_id": "Blancpain_No_516"
+    , "folder": "zooms/2016/09-September/2016-09-23/watch"
+    , "flickr": ""
+    , "title": "Blancpain No 516"
+    , "photographer": "Mark Wylie"
+    , "lens": "56mm Macro"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a7r"
+    , "aperture": "48"
+    , "year": "2016"
+    , "category": "Product Shots"
+    , "images": "49"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+  },
+{ "_id": "bracelet_14k"
     , "folder": "zooms/2016/09-September/2016-09-21/bracelet14k"
     , "flickr": ""
     , "title": "Bracelet 14K"
@@ -29,7 +89,7 @@
     , "viewOnHome": true
     , "viewOnCategories": false
   },
-  {"_id": 10
+  {"_id": "bouquet"
     , "folder": "zooms/2016/09-September/2016-09-03/bouquet"
     , "flickr": ""
     , "title": "Farm Bouquet"
@@ -59,7 +119,22 @@
     , "viewOnHome": true
     , "viewOnCategories": false
   },
-  {"_id": 7
+  { "_id": "leaf"
+    , "folder": "zooms/2016/09-September/2016-09-18/leaf"
+    , "flickr": ""
+    , "title": "Leaf"
+    , "photographer": "Mark Wylie"
+    , "lens": "Cambo 210mm"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a6000"
+    , "aperture": "22"
+    , "year": "2016"
+    , "category": "Miscellaneous"
+    , "images": "48"
+    , "viewOnHome": true
+    , "viewOnCategories": false
+  },
+  {"_id": "peppercorns"
     , "folder": "zooms/2016/08-August/2016-08-26/peppercorns_1"
     , "flickr": ""
     , "title": "Peppercorns Macro"
@@ -74,7 +149,7 @@
     , "viewOnHome": true
     , "viewOnCategories": true
   },
-    { "_id": 21
+    { "_id": "beer"
     , "folder": "zooms/2016/09-September/2016-09-21/beer"
     , "flickr": ""
     , "title": "APSC vs Full Frame Digitiler vs APSC Digitiler"
@@ -84,12 +159,12 @@
     , "camera_2": "Sony a6000"
     , "aperture": "16"
     , "year": "2016"
-    , "category": "Product"
+    , "category": "Product Shots"
     , "images": "99"
     , "viewOnHome": true
     , "viewOnCategories": true
   },
-  { "_id": 0
+  { "_id": "sunflower_macro"
     , "folder": "zooms/2016/08-August/2016-08-24/sunflower_1"
     , "flickr": ""
     , "title": "Sunflower Macro"
@@ -101,21 +176,6 @@
     , "year": "2016"
     , "category": "Flowers"
     , "images": ""
-    , "viewOnHome": true
-    , "viewOnCategories": false
-  },
-  { "_id": 17
-    , "folder": "zooms/2016/09-September/2016-09-18/leaf"
-    , "flickr": ""
-    , "title": "Leaf"
-    , "photographer": "Mark Wylie"
-    , "lens": "Cambo 210mm"
-    , "camera_1": "Cambo Legend"
-    , "camera_2": "Sony a6000"
-    , "aperture": "22"
-    , "year": "2016"
-    , "category": "Miscellaneous"
-    , "images": "48"
     , "viewOnHome": true
     , "viewOnCategories": false
   },
@@ -135,7 +195,7 @@
     , "viewOnCategories": true
   },
 
-    {"_id": 19
+    {"_id": "bunny_ring_holder"
     , "folder": "zooms/2016/09-September/2016-09-19/bunny"
     , "flickr": ""
     , "title": "Bunny"
@@ -181,7 +241,7 @@
     , "viewOnHome": true
     , "viewOnCategories": false
   },
-  {"_id": 5
+  {"_id": "sunflower_macro_1"
     , "folder": "zooms/2016/09-September/2016-09-10/sunflower_4"
     , "flickr": ""
     , "title": "Sunflower"
@@ -212,7 +272,7 @@
     , "viewOnCategories": false
   },
   
-  {"_id": 8
+  {"_id": "peppercorns_lid"
     , "folder": "zooms/2016/08-August/2016-08-26/peppercorns_2"
     , "flickr": ""
     , "title": "Peppercorns"
