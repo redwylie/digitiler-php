@@ -26,12 +26,7 @@
 
 
 				{% for image in images %}
-				<div class="col-sm-4">
-					<a href="photo.php?photo={{image._id}}">
-						<div class="card" data-content="{{image.title}}"  style="background-image: url('{{image.folder}}/thumbnail.jpg')">
-						</div><!-- .col -->
-					</a>
-				</div><!-- .col -->
+					{% include 'common/card.html' with {'view':'photo'} %}
 				{% endfor %}
 
 				<!--{{cards}}-->

@@ -1,7 +1,7 @@
 // Core variables and mixins
 @import "../../bootstrap/scss/variables";
 @import "variables/colors";
-@import "variables/variables"; 
+@import "variables/variables";
 @import "../../bootstrap/scss/mixins";
 
 // Reset and dependencies
@@ -56,3 +56,4 @@
 @import "cards";
 @import "jumbotron";
 @import "navbar";
+@import "responsive";

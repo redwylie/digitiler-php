@@ -3,11 +3,24 @@
 		<div class="row">
 			<div class="col-xs-9">
 			<p class="text-muted">
-				{{photo.title}} 
+				{% if photo.externalURL %}
+					<a href="{{photo.externalURL}}" target="_blank"> 
+						{{photo.title}} 
+					</a>
+				{% else %}
+					{{photo.title}}
+				{% endif %}
 				&bull; 
 				<a href="#" title="more info" class="show-info"><span id="photoMegapixels"></span></a>
 				{% if photo.photographer %}
-					&bull; {{photo.photographer}}
+					&bull; 
+					{% if photo.photographer == "Mark Wylie" %}
+						<a href="https://www.flickr.com/photos/redwylie/" target="_blank"> {{photo.photographer}}</a>
+					{% elseif photo.photographer == "Max Rottersman" %}
+						<a href="https://www.flickr.com/photos/maxotics/" target="_blank"> {{photo.photographer}}</a>
+					{% else %}
+						{{photo.photographer}}
+					{% endif %}
 				{% endif %}
 				</p>
 					
