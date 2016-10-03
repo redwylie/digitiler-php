@@ -14,6 +14,21 @@
     , "viewOnHome": true
     , "viewOnCategories": false
   },
+  { "_id": "Razor"
+    , "folder": "zooms/2016/10-October/2016-10-02/razer"
+    , "externalURL": ""
+    , "title": "Razor"
+    , "photographer": "Mark Wylie"
+    , "lens": "120mm Nikkor Macro"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a7"
+    , "aperture": "16"
+    , "year": "2016"
+    , "category": "Product Shots"
+    , "images": "49"
+    , "viewOnHome": false
+    , "viewOnCategories": false
+  },
 { "_id": "Tavannes"
     , "folder": "zooms/2016/09-September/2016-09-28/watch"
     , "externalURL": ""
