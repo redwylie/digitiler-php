@@ -29,6 +29,51 @@
     , "viewOnHome": false
     , "viewOnCategories": false
   },
+  { "_id": "Razor_5"
+    , "folder": "zooms/2016/10-October/2016-10-04/razor"
+    , "externalURL": ""
+    , "title": "Razor"
+    , "photographer": "Mark Wylie"
+    , "lens": "120mm Nikkor Macro"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a7"
+    , "aperture": "16"
+    , "year": "2016"
+    , "category": "Product Shots"
+    , "images": "49"
+    , "viewOnHome": false
+    , "viewOnCategories": false
+  },
+  { "_id": "Razor_1"
+    , "folder": "zooms/2016/10-October/2016-10-03/razor_1"
+    , "externalURL": ""
+    , "title": "Razor"
+    , "photographer": "Mark Wylie"
+    , "lens": "120mm Nikkor Macro"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a7"
+    , "aperture": "16"
+    , "year": "2016"
+    , "category": "Product Shots"
+    , "images": "16"
+    , "viewOnHome": false
+    , "viewOnCategories": false
+  },
+  { "_id": "Razor_2"
+    , "folder": "zooms/2016/10-October/2016-10-03/razor_2"
+    , "externalURL": ""
+    , "title": "Razor"
+    , "photographer": "Mark Wylie"
+    , "lens": "120mm Nikkor Macro"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a7"
+    , "aperture": "16"
+    , "year": "2016"
+    , "category": "Product Shots"
+    , "images": "49"
+    , "viewOnHome": false
+    , "viewOnCategories": false
+  },
 { "_id": "Tavannes"
     , "folder": "zooms/2016/09-September/2016-09-28/watch"
     , "externalURL": ""
@@ -253,6 +298,21 @@
     , "images": ""
     , "viewOnHome": false
     , "viewOnCategories": true
+  },
+  { "_id": "seashell_4"
+    , "folder": "zooms/2016/10-October/2016-10-01/shell_2"
+    , "externalURL": ""
+    , "title": "Seashell"
+    , "photographer": "Mark Wylie"
+    , "lens": "Nikon 120mm Macro"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony A7r"
+    , "aperture": "16"
+    , "year": "2016"
+    , "category": "Seashells"
+    , "images": ""
+    , "viewOnHome": false
+    , "viewOnCategories": false
   },
 { "_id": "seashell_3"
     , "folder": "zooms/2016/10-October/2016-10-01/shell"
