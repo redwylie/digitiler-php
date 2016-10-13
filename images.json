@@ -119,6 +119,21 @@
     , "viewOnHome": true
     , "viewOnCategories": false
   },
+  { "_id": "Max_and_Ross"
+    , "folder": "zooms/2016/10-October/2016-10-12/max_and_ross"
+    , "externalURL": ""
+    , "title": "Max and Ross"
+    , "photographer": "Mark Wylie"
+    , "lens": "210mm"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a7r"
+    , "aperture": "16"
+    , "year": "2016"
+    , "category": "Portraits"
+    , "images": "49"
+    , "viewOnHome": false
+    , "viewOnCategories": false
+  },
 { "_id": "Receipts"
     , "folder": "zooms/2016/09-September/2016-09-27/receipts"
     , "externalURL": ""
@@ -251,7 +266,7 @@
     , "year": "2016"
     , "category": "Miscellaneous"
     , "images": "48"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": true
   },
   {"_id": "peppercorns"
