@@ -14,6 +14,21 @@
     , "viewOnHome": true
     , "viewOnCategories": false
   },
+  { "_id": "Ross"
+    , "folder": "zooms/2016/10-October/2016-10-12/ross"
+    , "externalURL": ""
+    , "title": "Ross"
+    , "photographer": "Mark Wylie"
+    , "lens": "210mm"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a7r"
+    , "aperture": "16"
+    , "year": "2016"
+    , "category": "Portraits"
+    , "images": "49"
+    , "viewOnHome": true
+    , "viewOnCategories": true
+  },
   { "_id": "Razor"
     , "folder": "zooms/2016/10-October/2016-10-02/razer"
     , "externalURL": ""
