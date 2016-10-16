@@ -209,6 +209,22 @@
     , "viewOnHome": true
     , "viewOnCategories": false
   },
+    { "_id": "Pencils_1"
+    , "folder": "zooms/2016/10-October/2016-10-08/pencils"
+    , "externalURL": ""
+    , "title": "Pencils"
+    , "photographer": "Mark Wylie"
+    , "lens": "120mm Nikkor Macro"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a7"
+    , "aperture": "16"
+    , "year": "2016"
+    , "category": "Product Shots"
+    , "images": "49"
+    , "viewOnHome": false
+    , "viewOnCategories": false
+  },
+
 { "_id": 18
     , "folder": "zooms/2016/09-September/2016-09-19/WatchFrontBackQuarter"
     , "externalURL": ""
@@ -224,6 +240,21 @@
     , "viewOnHome": true
     , "viewOnCategories": false
   },
+  {"_id": "orchids_1"
+    , "folder": "zooms/2016/10-October/2016-10-15/flowers-1"
+    , "externalURL": ""
+    , "title": "Orchids"
+    , "photographer": "Mark Wylie"
+    , "lens": "210mm"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a7r"
+    , "aperture": ""
+    , "year": "2016"
+    , "category": "Flowers"
+    , "images": ""
+    , "viewOnHome": true
+    , "viewOnCategories": false
+  },
   {"_id": "bouquet"
     , "folder": "zooms/2016/09-September/2016-09-03/bouquet"
     , "externalURL": ""
@@ -236,7 +267,7 @@
     , "year": "2016"
     , "category": "Flowers"
     , "images": ""
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
   },
   {"_id": 13
