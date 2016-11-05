@@ -1,4 +1,19 @@
 {"images": [
+    {"_id": "orchids_1"
+    , "folder": "zooms/2016/10-October/2016-10-15/flowers-1"
+    , "externalURL": ""
+    , "title": "Orchids"
+    , "photographer": "Mark Wylie"
+    , "lens": "210mm"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a7r"
+    , "aperture": ""
+    , "year": "2016"
+    , "category": "Flowers"
+    , "images": ""
+    , "viewOnHome": true
+    , "viewOnCategories": true
+  },
 { "_id": "Nook"
     , "folder": "zooms/2016/09-September/2016-09-29/nook"
     , "externalURL": ""
@@ -56,7 +71,7 @@
     , "year": "2016"
     , "category": "Product Shots"
     , "images": "49"
-    , "viewOnHome": false
+    , "viewOnHome": true
     , "viewOnCategories": false
   },
   { "_id": "Razor_1"
@@ -146,24 +161,10 @@
     , "year": "2016"
     , "category": "Miscellaneous"
     , "images": "49"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
   },
-{ "_id": "Raisin_Bread"
-    , "folder": "zooms/2016/09-September/2016-09-27/raisinbread"
-    , "externalURL": ""
-    , "title": "Raisin Bread"
-    , "photographer": "Max Rottersman"
-    , "lens": "75mm Macro"
-    , "camera_1": "Polaroid Industrial 4x5"
-    , "camera_2": "Sony a7"
-    , "aperture": "16"
-    , "year": "2016"
-    , "category": "Food"
-    , "images": "49"
-    , "viewOnHome": false
-    , "viewOnCategories": true
-  },
+
 { "_id": "Blancpain_No_516_02"
     , "folder": "zooms/2016/09-September/2016-09-25/watch"
     , "externalURL": ""
@@ -176,7 +177,7 @@
     , "year": "2016"
     , "category": "Product Shots"
     , "images": "49"
-    , "viewOnHome": false
+    , "viewOnHome": true
     , "viewOnCategories": false
   },
   { "_id": "Blancpain_No_516"
@@ -206,7 +207,7 @@
     , "year": "2016"
     , "category": "Miscellaneous"
     , "images": "49"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
   },
     { "_id": "Pencils_1"
@@ -235,15 +236,16 @@
     , "camera_2": "Sony a7r"
     , "aperture": "16"
     , "year": "2016"
-    , "category": "Miscellaneous"
+    , "category": "Product Shots"
     , "images": "49"
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
   },
-  {"_id": "orchids_1"
-    , "folder": "zooms/2016/10-October/2016-10-15/flowers-1"
+  
+  {"_id": "orchids_2"
+    , "folder": "zooms/2016/10-October/2016-10-17/orchids"
     , "externalURL": ""
-    , "title": "Orchids"
+    , "title": "Orchids - Day 3"
     , "photographer": "Mark Wylie"
     , "lens": "210mm"
     , "camera_1": "Cambo Legend"
@@ -252,7 +254,7 @@
     , "year": "2016"
     , "category": "Flowers"
     , "images": ""
-    , "viewOnHome": true
+    , "viewOnHome": false
     , "viewOnCategories": false
   },
   {"_id": "bouquet"
@@ -298,6 +300,21 @@
     , "category": "Miscellaneous"
     , "images": "48"
     , "viewOnHome": false
+    , "viewOnCategories": true
+  },
+  { "_id": "Raisin_Bread"
+    , "folder": "zooms/2016/09-September/2016-09-27/raisinbread"
+    , "externalURL": ""
+    , "title": "Raisin Bread"
+    , "photographer": "Max Rottersman"
+    , "lens": "75mm Macro"
+    , "camera_1": "Polaroid Industrial 4x5"
+    , "camera_2": "Sony a7"
+    , "aperture": "16"
+    , "year": "2016"
+    , "category": "Food"
+    , "images": "49"
+    , "viewOnHome": true
     , "viewOnCategories": true
   },
   {"_id": "peppercorns"
@@ -418,7 +435,7 @@
     , "category": "Flowers"
     , "images": ""
     , "viewOnHome": false
-    , "viewOnCategories": true
+    , "viewOnCategories": false
   },
   
   {"_id": 16
@@ -444,6 +461,36 @@
     , "lens": "Cambo 210mm"
     , "camera_1": "Cambo Legend"
     , "camera_2": "Sony a6000"
+    , "aperture": ""
+    , "year": "2016"
+    , "category": "Flowers"
+    , "images": ""
+    , "viewOnHome": false
+    , "viewOnCategories": false
+  },
+  {"_id": "lily_1"
+    , "folder": "zooms/2016/11-November/2016-11-05/lily-1"
+    , "externalURL": ""
+    , "title": "Lily Macro"
+    , "photographer": "Mark Wylie"
+    , "lens": "Cambo 210mm"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a7r"
+    , "aperture": ""
+    , "year": "2016"
+    , "category": "Flowers"
+    , "images": ""
+    , "viewOnHome": false
+    , "viewOnCategories": false
+  },
+  {"_id": "lily_2"
+    , "folder": "zooms/2016/11-November/2016-11-05/lily-2"
+    , "externalURL": ""
+    , "title": "Lily Macro"
+    , "photographer": "Mark Wylie"
+    , "lens": "56mm"
+    , "camera_1": "Cambo Legend"
+    , "camera_2": "Sony a7r"
     , "aperture": ""
     , "year": "2016"
     , "category": "Flowers"
